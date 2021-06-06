@@ -13,7 +13,7 @@ Materi ini berisi tentang dasar_dasar php
 - Tipe data string
 - Tipe data boolean
 - Tipe data array
-- Menambah ken element array
+- Menambahkan element array
 - Tipe data Object
 - Tipe data resource
 - Tipe data null
